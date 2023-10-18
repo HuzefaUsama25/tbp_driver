@@ -1,1 +1,1 @@
-# The Bus Project - Python Flask Backend
+# The Bus Project - Driver Flutter App
